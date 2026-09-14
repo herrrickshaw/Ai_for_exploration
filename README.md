@@ -23,3 +23,7 @@ belt (Rajasthan / N. Gujarat / S. Haryana), bbox **72–78°E, 23–29°N**.
   email+OTP), then pull MERT-standardized exploration reports for the belt.
 - **Bhukosh** (once up): Map Viewer → AOI over bbox → download 1:50k geology,
   NGCM stream-sediment geochem, NGPM magnetics, mineral occurrence shapefiles.
+  If the watcher stays dark much longer, don't just assume "down" — check
+  whether the documented `arcgis/rest/services` path has simply moved by
+  mining the site's own JS bundles for the current backend host before
+  concluding it's fully blocked.
