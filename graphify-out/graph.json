@@ -1,0 +1,151 @@
+{
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "nodes": [
+    {
+      "id": "scripts_bhukosh_watcher",
+      "label": "bhukosh_watcher.sh",
+      "file_type": "code",
+      "source_file": "scripts/bhukosh_watcher.sh",
+      "source_location": "L1",
+      "metadata": {
+        "language": "bash",
+        "kind": "file"
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_bhukosh_watcher_sh__entry",
+      "label": "bhukosh_watcher.sh script",
+      "file_type": "code",
+      "source_file": "scripts/bhukosh_watcher.sh",
+      "source_location": "L1",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_entrypoint"
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "scripts_bhukosh_watcher_ts",
+      "label": "TS()",
+      "file_type": "code",
+      "source_file": "scripts/bhukosh_watcher.sh",
+      "source_location": "L15",
+      "metadata": {
+        "language": "bash",
+        "kind": "bash_function"
+      },
+      "_origin": "ast"
+    },
+    {
+      "id": "readme",
+      "label": "README.md",
+      "file_type": "document",
+      "node_kind": "page",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_aravalli_belt_ai_mineral_prospectivity_data_scaffolding",
+      "label": "Aravalli Belt — AI Mineral Prospectivity (data scaffolding)",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_data",
+      "label": "data/",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
+      "source_location": "L6",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_scripts",
+      "label": "scripts/",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
+      "source_location": "L15",
+      "_origin": "ast"
+    },
+    {
+      "id": "readme_blocked_manual_next_steps",
+      "label": "Blocked / manual next steps",
+      "file_type": "document",
+      "node_kind": "heading",
+      "source_file": "README.md",
+      "source_location": "L21",
+      "_origin": "ast"
+    }
+  ],
+  "links": [
+    {
+      "source": "scripts_bhukosh_watcher",
+      "target": "scripts_bhukosh_watcher_sh__entry",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/bhukosh_watcher.sh",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "scripts_bhukosh_watcher",
+      "target": "scripts_bhukosh_watcher_ts",
+      "relation": "defines",
+      "confidence": "EXTRACTED",
+      "source_file": "scripts/bhukosh_watcher.sh",
+      "source_location": "L15",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme",
+      "target": "readme_aravalli_belt_ai_mineral_prospectivity_data_scaffolding",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme_aravalli_belt_ai_mineral_prospectivity_data_scaffolding",
+      "target": "readme_data",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme_aravalli_belt_ai_mineral_prospectivity_data_scaffolding",
+      "target": "readme_scripts",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "_origin": "ast"
+    },
+    {
+      "source": "readme_aravalli_belt_ai_mineral_prospectivity_data_scaffolding",
+      "target": "readme_blocked_manual_next_steps",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_origin": "ast"
+    }
+  ],
+  "directed": false
+}

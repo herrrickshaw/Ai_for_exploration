@@ -1,0 +1,20 @@
+{
+  "scripts/bhukosh_watcher.sh": {
+    "mtime": 1785598720.6062152,
+    "seen": 1789193284.222325,
+    "ast_hash": "df03918c783e7e4690a89849829b1fb5",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1785598799.1407104,
+    "seen": 1789193284.2223291,
+    "ast_hash": "bc22f839a9de1261d015de6c5e6b749d",
+    "semantic_hash": ""
+  },
+  "docs/AI_RESOURCE_PROGNOSTICATION_OPPORTUNITY.md": {
+    "mtime": 1785644157.9066477,
+    "seen": 1789193284.22233,
+    "ast_hash": "178765782d049cb2b4c7314ee1309bcb",
+    "semantic_hash": ""
+  }
+}
