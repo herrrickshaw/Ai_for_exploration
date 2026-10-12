@@ -1,5 +1,9 @@
 # Aravalli Belt — AI Mineral Prospectivity (data scaffolding)
 
+<!-- how-to-use-with-ai -->
+> **New here?** See [How to use this repo with AI (Claude, Gemini, ChatGPT)](HOW_TO_USE_WITH_AI.md) — clone it, paste it into an AI tool, and ask in plain English.
+
+
 Started 2026-08-01. Goal: GFM4MPM-style prospectivity model over the Aravalli
 belt (Rajasthan / N. Gujarat / S. Haryana), bbox **72–78°E, 23–29°N**.
 
