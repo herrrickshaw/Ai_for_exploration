@@ -9,6 +9,8 @@
 #   2. writes logs/bhukosh_up.flag (presence = already alerted; delete to re-arm)
 #   3. fires a macOS notification
 
+set -u
+
 BASE="$HOME/aravalli-prospectivity"
 LOG="$BASE/logs/bhukosh_watcher.log"
 FLAG="$BASE/logs/bhukosh_up.flag"
