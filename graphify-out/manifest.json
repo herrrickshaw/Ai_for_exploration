@@ -1,20 +1,38 @@
 {
   "scripts/bhukosh_watcher.sh": {
-    "mtime": 1785598720.6062152,
-    "seen": 1789193284.222325,
+    "mtime": 1785598720.606215,
+    "seen": 1792992629.019595,
     "ast_hash": "df03918c783e7e4690a89849829b1fb5",
     "semantic_hash": ""
   },
   "README.md": {
-    "mtime": 1785598799.1407104,
-    "seen": 1789193284.2223291,
-    "ast_hash": "bc22f839a9de1261d015de6c5e6b749d",
+    "mtime": 1792914102.9306989,
+    "seen": 1792992629.0196102,
+    "ast_hash": "7a524a46780f298815db39ae67511dba",
     "semantic_hash": ""
   },
   "docs/AI_RESOURCE_PROGNOSTICATION_OPPORTUNITY.md": {
-    "mtime": 1785644157.9066477,
-    "seen": 1789193284.22233,
+    "mtime": 1785644157.906647,
+    "seen": 1792992629.019616,
     "ast_hash": "178765782d049cb2b4c7314ee1309bcb",
+    "semantic_hash": ""
+  },
+  ".github/workflows/quality-gates.yml": {
+    "mtime": 1790989880.273005,
+    "seen": 1791183296.767647,
+    "ast_hash": "134a4b6f0735b6ae358b2ab0b21fe2ad",
+    "semantic_hash": ""
+  },
+  "HOW_TO_USE_WITH_AI.md": {
+    "mtime": 1792914102.9303923,
+    "seen": 1792992629.019607,
+    "ast_hash": "d4b51ff80dc0289f8f2138e0cf535615",
+    "semantic_hash": ""
+  },
+  "CLAUDE.md": {
+    "mtime": 1792914102.9370475,
+    "seen": 1792992629.0196118,
+    "ast_hash": "1c88ac97bd5c8579bc0a7bbccda3d562",
     "semantic_hash": ""
   }
 }
